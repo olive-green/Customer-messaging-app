@@ -55,5 +55,5 @@ to start the server
 7. Messages are stored in database. Once customer/agent sign in, they can see the previous conversation.
 
 
-## Tech Stack (MERN)
-MongoDB, Express, reactJS, nodeJS, Socket.io
+## Tech Stack 
+MongoDB, Express.Js, reactJS, nodeJS, Socket.io
