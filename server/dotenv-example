@@ -1,0 +1,4 @@
+PORT=3001
+MONGO_URL="mongodb://localhost:27017/MessagingApp"
+USER_TYPE_CUST="customer"
+USER_TYPE_AGENT="company_agent"
